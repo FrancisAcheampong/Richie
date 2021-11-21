@@ -1,0 +1,15 @@
+{
+  "name": "food-website",
+  "version": "1.0.0",
+  "description": "richie site",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "FRANCIS",
+  "homepage": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages":"3.2.3"
+  }
+}
